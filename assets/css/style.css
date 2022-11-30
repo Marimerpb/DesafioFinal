@@ -1,0 +1,38 @@
+.body{
+    font-family: 'Roboto', sans-serif;
+}
+.card{
+    margin-top: 5em;
+}
+.miEstilo{
+    font-size: 20pt;
+}
+.miEstilotexto{
+    color: #707070;
+    font-size: 16pt;
+}
+.miEstilotexto1{
+    color: #707070;
+    font-size: 13pt;
+}
+.formulario{
+    background-color: #393f3a;
+    margin-top: 7em;
+}
+.PrecioTarjeta{
+    text-align: center;
+}
+.priceColor{
+    font-size: 20pt;
+    color: #28A745;
+}
+.col{
+    font-size: 16pt;
+    
+}
+.boton{
+    text-align: center;
+}
+.footer{
+    text-align: center;
+}
